@@ -1,2 +1,4 @@
 # IPGrabber
 NODE.JS ngrok IP Grabber
+
+#FOR EDUCATIONAL USE ONLY
