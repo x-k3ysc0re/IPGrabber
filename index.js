@@ -22,8 +22,6 @@ var PORT = process.env.PORT || 1337;
 
 
 
-/// IP Scraping/ GEO Scraping
-
 
 
 ///etc + tunnelling///
@@ -32,7 +30,7 @@ var PORT = process.env.PORT || 1337;
   console.log(url)
 })();
 
-///HTTP/HTTPS shit///
+
 app.set('trust proxy',true); 
 app.use(express.static('public'))
   app.get('/', function (req, res) {
