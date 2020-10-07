@@ -7,7 +7,7 @@ const app = express();
 const geoip = require('geoip-lite');
 /*
 * SETUP TERMINAL COMMANDS
-npm i geoip-lite
+npm i geoip-lite (optional)
 npm i ngrok 
 npm i discord.js (optional)
 npm i express
